@@ -33,6 +33,8 @@ public class Practice {
 		String text3 = driver.findElement(By.linkText("Pavilion")).getText();
 		
 		System.out.println("Main page text is  "  + text3 );
+		
+		System.out.println("Hi this is change");
 
 
 		
